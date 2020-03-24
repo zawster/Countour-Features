@@ -9,10 +9,10 @@ Following is the fundus image on which I am working in.
 </p>
 
 Following is the Optic Disk which is extracted from above fundus image.
-<table><tr><td>
-  <p align="center">
+<p align="center">
+  <table><tr><td>
     <img width="300" height="300" src="https://github.com/zawster/Countour-Features/blob/master/images/fundus-mask.png">
-  </p>
- </td></tr></table>
+  </td></tr></table>
+ </p>
 
 
