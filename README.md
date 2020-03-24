@@ -11,7 +11,27 @@ Following is the fundus image on which I am working in.
 Following is the Optic Disk which is extracted from above fundus image.
 <p align="center">
     <img width="300" height="300" src="https://github.com/zawster/Countour-Features/blob/master/images/Fundus-mask.png">
- </p>
- p.inset {border-style: inset;}
+</p>
+ 
+Following is the detected circle which is drwan by contour features.
+<p align="center">
+    <img width="300" height="300" src="https://github.com/zawster/Countour-Features/blob/master/images/circle.png">
+</p>
+
+Following is the disturbed Optic disk on which I will draw ellipse.
+<p align="center">
+    <img width="300" height="300" src="https://github.com/zawster/Countour-Features/blob/master/images/disturb-disk.png">
+</p>
+
+Following is the detected ellipse which is drwan by contour features.
+<p align="center">
+    <img width="300" height="300" src="https://github.com/zawster/Countour-Features/blob/master/images/ellipse.png">
+</p>
+
+
+Following is the detected retangle which is drwan by contour features.
+<p align="center">
+    <img width="300" height="300" src="https://github.com/zawster/Countour-Features/blob/master/images/rectangle.png">
+</p>
 
 
