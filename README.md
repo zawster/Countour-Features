@@ -25,7 +25,7 @@ Following is the disturbed Optic disk on which I will draw ellipse.
 
 Following is the detected ellipse which is drwan by contour features.
 <p align="center">
-    <img src="https://github.com/zawster/Countour-Features/blob/master/images/ellipse.png">
+    <img width="280" height="280" src="https://github.com/zawster/Countour-Features/blob/master/images/ellipse.png">
 </p>
 
 
