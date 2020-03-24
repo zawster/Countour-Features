@@ -20,12 +20,12 @@ Following is the detected circle which is drwan by contour features.
 
 Following is the disturbed Optic disk on which I will draw ellipse.
 <p align="center">
-    <img  width="280" height="280" src="https://github.com/zawster/Countour-Features/blob/master/images/disturb-disk.png">
+    <img  width="280" height="290" src="https://github.com/zawster/Countour-Features/blob/master/images/disturb-disk.png">
 </p>
 
 Following is the detected ellipse which is drwan by contour features.
 <p align="center">
-    <img width="280" height="280" src="https://github.com/zawster/Countour-Features/blob/master/images/ellipse.png">
+    <img width="240" height="290" src="https://github.com/zawster/Countour-Features/blob/master/images/ellipse.png">
 </p>
 
 
