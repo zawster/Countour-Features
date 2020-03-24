@@ -31,7 +31,7 @@ Following is the detected ellipse which is drwan by contour features.
 
 Following is the detected retangle which is drwan by contour features.
 <p align="center">
-    <img width="290" height="300" src="https://github.com/zawster/Countour-Features/blob/master/images/rectangle.png">
+    <img width="290" height="320" src="https://github.com/zawster/Countour-Features/blob/master/images/rectangle.png">
 </p>
 
 
